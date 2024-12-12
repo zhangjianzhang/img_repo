@@ -1,1 +1,1 @@
-# img_repo
+This is the image repository of my blog.
